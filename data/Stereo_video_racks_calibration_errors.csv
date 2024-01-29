@@ -1,0 +1,21 @@
+﻿Calibration_Rack_I,,,,,Calibration_Rack_II,,,,,Calibration_Rack_III,,,
+Object,Event,Length [mm],Error [mm],,Object,Event,Length [mm],Error [mm],,Object,Event,Length [mm],Error [mm]
+Frame 1,Measurement 1,200.37,1.37,,Frame 1,Measurement 1,201.15,2.15,,Frame 1,Measurement 1,202.86,3.86
+Frame 2,Measurement 2,190.77,8.23,,Frame 2,Measurement 2,198.88,0.12,,Frame 2,Measurement 2,202.85,3.85
+Frame 3,Measurement 3,197.72,1.28,,Frame 3,Measurement 3,205.21,6.21,,Frame 3,Measurement 3,211.86,12.86
+Frame 4,Measurement 4,201.95,2.95,,Frame 4,Measurement 4,213.62,14.62,,Frame 4,Measurement 4,208.41,9.41
+Frame 5,Measurement 5,196.91,2.09,,Frame 5,Measurement 5,199.15,0.15,,Frame 5,Measurement 5,203.93,4.93
+Frame 6,Measurement 6,218.60,19.60,,Frame 6,Measurement 6,211.60,12.60,,Frame 6,Measurement 6,202.71,3.71
+Frame 7,Measurement 7,196.63,2.37,,Frame 7,Measurement 7,205.88,6.88,,Frame 7,Measurement 7,203.26,4.26
+Frame 8,Measurement 8,204.01,5.01,,Frame 8,Measurement 8,203.17,4.17,,Frame 8,Measurement 8,206.30,7.30
+Frame 9,Measurement 9,206.69,7.69,,Frame 9,Measurement 9,208.30,9.30,,Frame 9,Measurement 9,203.07,4.07
+Frame 10,Measurement 10,199.04,0.04,,Frame 10,Measurement 10,210.76,11.76,,Frame 10,Measurement 10,202.07,3.07
+,Mean abs. error,,5.06,,,Mean abs. error,,6.80,,,Mean abs. error,,5.73
+,SD,,5.79,,,SD,,5.20,,,SD,,3.17
+,Mean abs. % error,,2.5,,,Mean abs. % error,,3.4,,,Mean abs. % error,,2.9
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
