@@ -11,7 +11,7 @@ This repository contains the code and data to reproduce species-level tables and
 
 ### Environment Setup
 
-`renv`is a dependency management tool that helps to create reproducible environments in R by capturing and isolating project-specific dependencies. When working with our project which utilizes `renv` for environment management, you should first ensure that `renv` is installed in your R environment. Here's how to proceed:
+`renv` is a dependency management tool that helps to create reproducible environments in R by capturing and isolating project-specific dependencies. When working with our project which utilizes `renv` for environment management, you should first ensure that `renv` is installed in your R environment. Here's how to proceed:
 
 1. **Install `renv`:** If you haven't already installed `renv`, you can do so by running the following command in your R console. This step is only necessary if `renv` is not already installed.
 
@@ -21,13 +21,13 @@ This repository contains the code and data to reproduce species-level tables and
 
 2. **Open the Project:** Open the project in RStudio, which should automatically set your working directory to the root of the project. If you're not using RStudio, manually set your working directory to the root of the project in an R session.
 
-3. **Restore the Environment:** Since the project is already set up with `renv`, it should include an `renv.lock` file, which specifies all the necessary R packages and their versions. Use the `renv::restore()` function to synchronize your local R environment with the project's `renv.lock` file.
+3. **Restore the Environment:** Since our project is already set up with `renv`, it includes an `renv.lock` file, which specifies all the necessary R packages and their versions. Use the `renv::restore()` function to synchronize your local R environment with our project's `renv.lock` file.
 
     ```R
     renv::restore()
     ```
 
-The `renv::restore()` command will check your current environment against the specifications in the `renv.lock` file and install any missing packages or required versions. This ensures that your environment matches the project's dependencies, facilitating reproducibility and consistency across different setups.
+The `renv::restore()` command will check your current environment against the specifications in our `renv.lock` file and install any missing packages or required versions. This ensures that your environment matches our project's dependencies, facilitating reproducibility and consistency across different setups.
 
 ---
 
